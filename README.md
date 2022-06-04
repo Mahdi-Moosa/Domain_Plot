@@ -6,7 +6,7 @@ The script saves domain organization plot as svg file. SVG file can be imported 
 Command to run the script: *python Domain_Plot.py input_file_with_protein_annotation.json*
 
 # Domain_Plot.ipynb
-Jupyter notebook, does the same thing as aforementioned python script. Also,
+Jupyter notebook, does the same thing as aforementioned python script. Also, has an additional cell to convert svg file to pdf.
 
 ## Requirements
 1. matplotlib

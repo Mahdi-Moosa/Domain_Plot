@@ -4,7 +4,7 @@ Python script - plots protein domains and motifs from annotations. Domain annota
 The script saves domain organization plot as svg file. SVG file can be imported to Inkscape/ Adobe Illustrator/ Affinity Designer for further processing. If you need pdf, please open the svg file in your browser of choice and save as pdf.
 
 # Domain_Plot.ipynb
-Jupyter notebook, does the same thing as aforementioned python script
+Jupyter notebook, does the same thing as aforementioned python script. Also,
 
 ## Requirements
 1. matplotlib

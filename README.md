@@ -8,6 +8,9 @@ Command to run the script: *python Domain_Plot.py input_file_with_protein_annota
 # Domain_Plot.ipynb
 Jupyter notebook, does the same thing as aforementioned python script. Also, has an additional cell to convert svg file to pdf.
 
+# protein_annotation.json
+Example input file for the script.
+
 ## Requirements
 1. matplotlib
 2. drawSvg
